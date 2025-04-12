@@ -29,40 +29,65 @@ Connect with Me
 
 📌 Overview
 This repository contains various Django projects that demonstrate different aspects of web development, including:
+
 ✅ Basic CRUD Applications
+
 ✅ User Authentication & Authorization
+
 ✅ REST APIs with Django REST Framework (DRF)
+
 ✅ Database Integration (SQLite, PostgreSQL)
+
 ✅ Deployment-Ready Configurations
 
+
 📌 Projects List
+
 Project	Description	Features
+
 Blog App	A simple blogging platform	User auth, CRUD posts, comments
+
 E-Commerce	Basic online store	Product listing, cart, checkout
+
 Task Manager	Todo app with user accounts	Create, update, delete tasks
+
 REST API	Django REST Framework demo	JWT Auth, endpoints, Swagger docs
+
 (Replace with your actual projects and links)
 
+
 🛠️ Technologies Used
+
 Backend: Django, Django REST Framework
+
 
 Frontend: HTML, CSS, Bootstrap, JavaScript
 
+
 Database: SQLite (default), PostgreSQL (optional)
+
 
 Authentication: Django Auth, JWT
 
+
 Deployment: Docker, Heroku (optional)
+
 
 Tools: Git, GitHub, VSCode/PyCharm
 
+
 ⚙️ Setup & Installation
+
 Prerequisites
+
 Python 3.7+
+
 
 pip (Python package manager)
 
+
 Git
+
 
 Steps
 1. Clone the repository
