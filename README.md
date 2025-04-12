@@ -111,56 +111,89 @@ Running the Projects
 1. Apply migrations
 
   python manage.py migrate
+  
 2. Create a superuser (optional for admin access)
+   
 
-python manage.py createsuperuser
+  python manage.py createsuperuser
+
 3. Run the development server
+   
 
   python manage.py runserver
+  
 4. Access the app at → http://127.0.0.1:8000/
+   
 
 
 Contributing
+
 Contributions are welcome! Follow these steps:
+
 
 Fork the repository
 
+
 Create a new branch (git checkout -b feature/new-feature)
+
 
 Commit changes (git commit -m "Added new feature")
 
+
 Push to branch (git push origin feature/new-feature)
+
 
 Open a Pull Request
 
+
 📜 License
+
 This project is licensed under the MIT License - see LICENSE for details.
 
+
 📧 Connect with Me
+
 GitHub: @adarsh0707-kumar
+
 
 LinkedIn: https://www.linkedin.com/in/adarsh-kumar-657315251
 
+
 Email: adarshku123456789@gmail.com
+
 
 ⭐ Star this repo if you find it useful! ⭐
 
+
 🔹 Want to Learn Django?
+
 Check out these resources:
+
 
 Official Django Docs
 
+
 Django for Beginners
+
 
 MDN Django Tutorial
 
+
 (Customize with your preferred learning links!)
 
+
 This README.md is clean, structured, and visually appealing with:
+
 ✅ Badges for tech stack
+
 ✅ Table of Contents for easy navigation
+
 ✅ Project table for quick overview
+
 ✅ Step-by-step setup guide
+
 ✅ Social links & contribution guidelines
 
+
 Would you like any modifications? 😊
+
