@@ -1,9 +1,14 @@
 Django Projects Repository 🚀
+
 Django
+
 Python
+
 GitHub
 
+
 A collection of Django projects ranging from beginner to advanced levels, covering web development, REST APIs, authentication, and more.
+
 
 📌 Table of Contents
 Overview
@@ -61,16 +66,23 @@ Git
 
 Steps
 1. Clone the repository
+ 
     git clone https://github.com/adarsh0707-kumar/Django.git
+   
     cd Django
 2. Create & activate a virtual environment
+   
     python -m venv venv
     source venv/bin/activate  # Linux/Mac
     .\venv\Scripts\activate  # Windows
 3. Install dependencies for a project
+   
      cd project_folder
+   
     pip install -r requirements.txt
+   
 Running the Projects
+
 1. Apply migrations
 
   python manage.py migrate
